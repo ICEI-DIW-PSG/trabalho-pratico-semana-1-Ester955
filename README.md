@@ -5,6 +5,7 @@
 ## Informações Gerais
 
 Nome: Ester Cristine de Assis Ferreira
+
 Matricula: 1625330
 
 ## Tela de inspeção com navegador
@@ -13,7 +14,7 @@ Matricula: 1625330
 
 ## Tela de projeto no Replit
 
-![Página Replit](images\imagesreplit_hello.png)
+![Página Replit](images/imagesreplit_hello.png)
 
 ## Orientações sobre Linguagem MarkDown
 
