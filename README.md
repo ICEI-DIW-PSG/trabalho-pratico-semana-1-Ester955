@@ -4,17 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Ester Cristine de Assis Ferreira
+Matricula: 1625330
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Captura DevTools](images\imagesdevtools_network.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Página Replit](images\imagesreplit_hello.png)
 
 ## Orientações sobre Linguagem MarkDown
 
