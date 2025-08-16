@@ -9,7 +9,7 @@ Matricula: 1625330
 
 ## Tela de inspeção com navegador
 
-![Captura DevTools](images\imagesdevtools_network.png)
+![Captura DevTools](images/imagesdevtools_network.png)
 
 ## Tela de projeto no Replit
 
